@@ -5,7 +5,7 @@ Ele foi projetado para gerenciar as reclamações de clientes da empresa de entr
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [Spring Tool Suite 4]((https://spring.io/tools))
 - [MySQL](https://www.mysql.com/)
 
 ## Instalação
