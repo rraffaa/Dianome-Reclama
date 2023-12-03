@@ -5,7 +5,7 @@ Ele foi projetado para gerenciar as reclamações de clientes da empresa de entr
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
-- [Spring Tool Suite 4]((https://spring.io/tools))
+- [Spring Tool Suite 4][(https://spring.io/tools)
 - [MySQL](https://www.mysql.com/)
 
 ## Instalação
