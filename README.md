@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/dianome-reclama.git
+   git clone https://github.com/rraffaa/dianome-reclama.git
    
    
 2. Configure as propriedades do banco de dados:
