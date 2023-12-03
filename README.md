@@ -19,3 +19,8 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
    ```bash
    git clone https://github.com/seu-usuario/dianome-reclama.git
+
+   
+### Autora
+
+Rafaella Lassance Lima Costa
