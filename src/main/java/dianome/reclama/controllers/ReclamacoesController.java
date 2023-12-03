@@ -40,7 +40,7 @@ public class ReclamacoesController {
 		return ResponseEntity.status(HttpStatus.CREATED).body(reclamacoesRepository.save(reclamacaoModel));
 	}	
  
-	@GetMapping("/filmes/{id}")
+	@GetMapping("/reclamacoes/{id}")
 	public ResponseEntity<Object> detalhar(@PathVariable(value="id") Integer id) {
 		Optional<ReclamacaoModel> reclamacao = reclamacoesRepository.findById(id);
 		if(reclamacao.isEmpty()) {
