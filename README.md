@@ -19,6 +19,13 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
    ```bash
    git clone https://github.com/seu-usuario/dianome-reclama.git
+   
+   
+2. Configure as propriedades do banco de dados:
+ 
+Abra o arquivo **application.properties** localizado em **src/main/resources.** 
+
+Ajuste as configurações do banco de dados, como URL, nome de usuário e senha, conforme necessário. 
 
    
 ## Autora
